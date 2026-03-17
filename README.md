@@ -21,4 +21,4 @@ A Python script that automatically organizes files in a folder into subfolders b
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YourUsername/python-file-organizer.git
+git clone https://github.com/Venaraa/python-file-organizer.git
